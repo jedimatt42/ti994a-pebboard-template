@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name tipebedge)(type Legacy)(uri ${KIPRJMOD}/tipebedge.lib)(options "")(descr ""))
+  (lib (name ti994a-peb-rescue)(type Legacy)(uri ${KIPRJMOD}/ti994a-peb-rescue.lib)(options "")(descr ""))
 )
